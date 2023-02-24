@@ -67,6 +67,7 @@ img {
 
 @media (min-width: 375px) {
     .qr-container {
+        width: 32rem;
         height: 65%;
     }
 }
