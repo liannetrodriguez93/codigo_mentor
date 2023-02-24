@@ -30,14 +30,14 @@ main {
 
 .qr-container {
     width: 28rem;
-    height: 72%;
+    height: 70%;
     background-color: white;
     border-radius: 2rem;
     padding: 1.4rem;
 }
 
 .image-container {
-    height: 62%;
+    height: 60%;
 }
 
 img {
@@ -49,8 +49,6 @@ img {
 }
 
 .text-container {
-    height: 40%;
-    padding: 1rem;
     text-align: center;
 }
 
