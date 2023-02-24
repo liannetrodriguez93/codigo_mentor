@@ -12,10 +12,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](../images/qr_code_mobile.png)
+![Mobile view](./design/qr_code_mobile.png)
 Mobile view
 
-![](../images/qr_code_desktop.png)
+![Desktop view](./design/qr_code_desktop.png)
 Desktop view
 
 ### Built with
