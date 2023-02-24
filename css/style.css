@@ -37,7 +37,7 @@ main {
 }
 
 .image-container {
-    height: 60%;
+    height: 62%;
 }
 
 img {
@@ -63,10 +63,4 @@ img {
     font-weight: 400;
     color: var(--subtitle-color);
     margin-top: 1.8rem;
-}
-
-@media (min-width: 375px) {
-    .qr-container {
-        width: 32rem;
-    }
 }
