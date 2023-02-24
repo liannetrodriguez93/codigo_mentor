@@ -30,8 +30,7 @@ main {
 
 .qr-container {
     width: 28rem;
-    max-width: 32rem;
-    height: 80%;
+    height: 75%;
     background-color: white;
     border-radius: 2rem;
     padding: 1.4rem;
@@ -71,6 +70,6 @@ img {
 
 @media (min-width: 375px) {
     .qr-container {
-        height: 80%;
+        width: 32rem;
     }
 }
